@@ -14,3 +14,8 @@ Aprenda os conceitos básicos para a análise de complexidade de algoritmos
 - Insertion Sort
 - Analisando a complexidade
 - Comparando algoritmos
+
+
+### Big O - Cheat sheet
+https://www.bigocheatsheet.com/
+
